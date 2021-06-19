@@ -368,5 +368,13 @@ namespace CourseLibrary.API.Controllers
 
             return links;
         }
+
+        [HttpGet("cmb/{id}")]
+        public Task CustomModelBinder(
+            [ModelBinder(Name = "id")] AuthorDto_ModelBinding author)
+        {
+            return Task.CompletedTask;
+        }
+
     }
 }

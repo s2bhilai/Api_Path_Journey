@@ -27,6 +27,8 @@ namespace CourseLibrary.API.Profiles
             CreateMap<Models.AuthorForCreationWithDateOfDDto, Entities.Author>();
 
             CreateMap<Entities.Author, Models.AuthorFullDto>();
+
+            CreateMap<Entities.Author, Models.AuthorDto_ModelBinding>();
         }
     }
 }
