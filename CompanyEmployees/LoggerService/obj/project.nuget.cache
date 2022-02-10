@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gLKzU805jiRoun2mn1SRM/0gsYXClKsMw3zV925B8YuRqn5FEI26Jt3FRKaEvJwgYI6/qZcQg/J7TrftlzF6Lw==",
+  "dgSpecHash": "WBX1E14N96a+recktVBocEs2loudCOgFB6C8VhHUrHQKUX4xEjtpriCRJRGYE5nQdGWbdwRjTJeKpoYL/p/PPg==",
   "success": true,
-  "projectFilePath": "D:\\Tech\\CodeMaze\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+  "projectFilePath": "D:\\Tech\\RestfulApi_With_AspNetCore3\\Building_Your_First_Api\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [
     "D:\\Users\\subs\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.0\\microsoft.aspnetcore.cryptography.internal.5.0.0.nupkg.sha512",
     "D:\\Users\\subs\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.0\\microsoft.aspnetcore.cryptography.keyderivation.5.0.0.nupkg.sha512",

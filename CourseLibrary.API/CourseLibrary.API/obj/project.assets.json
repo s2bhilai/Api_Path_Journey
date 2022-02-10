@@ -5191,11 +5191,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tech\\RestfulApi_With_AspNetCore3\\Project\\CourseLibrary.API\\CourseLibrary.API\\CourseLibrary.API.csproj",
+      "projectUniqueName": "D:\\Tech\\RestfulApi_With_AspNetCore3\\Building_Your_First_Api\\CourseLibrary.API\\CourseLibrary.API\\CourseLibrary.API.csproj",
       "projectName": "CourseLibrary.API",
-      "projectPath": "D:\\Tech\\RestfulApi_With_AspNetCore3\\Project\\CourseLibrary.API\\CourseLibrary.API\\CourseLibrary.API.csproj",
+      "projectPath": "D:\\Tech\\RestfulApi_With_AspNetCore3\\Building_Your_First_Api\\CourseLibrary.API\\CourseLibrary.API\\CourseLibrary.API.csproj",
       "packagesPath": "D:\\Users\\subs\\.nuget\\packages\\",
-      "outputPath": "D:\\Tech\\RestfulApi_With_AspNetCore3\\Project\\CourseLibrary.API\\CourseLibrary.API\\obj\\",
+      "outputPath": "D:\\Tech\\RestfulApi_With_AspNetCore3\\Building_Your_First_Api\\CourseLibrary.API\\CourseLibrary.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "D:\\Users\\subs\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -905,11 +905,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tech\\CodeMaze\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+      "projectUniqueName": "D:\\Tech\\RestfulApi_With_AspNetCore3\\Building_Your_First_Api\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
       "projectName": "LoggerService",
-      "projectPath": "D:\\Tech\\CodeMaze\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+      "projectPath": "D:\\Tech\\RestfulApi_With_AspNetCore3\\Building_Your_First_Api\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
       "packagesPath": "D:\\Users\\subs\\.nuget\\packages\\",
-      "outputPath": "D:\\Tech\\CodeMaze\\CompanyEmployees\\LoggerService\\obj\\",
+      "outputPath": "D:\\Tech\\RestfulApi_With_AspNetCore3\\Building_Your_First_Api\\CompanyEmployees\\LoggerService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "D:\\Users\\subs\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -926,8 +926,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Tech\\CodeMaze\\CompanyEmployees\\Contracts\\Contracts.csproj": {
-              "projectPath": "D:\\Tech\\CodeMaze\\CompanyEmployees\\Contracts\\Contracts.csproj"
+            "D:\\Tech\\RestfulApi_With_AspNetCore3\\Building_Your_First_Api\\CompanyEmployees\\Contracts\\Contracts.csproj": {
+              "projectPath": "D:\\Tech\\RestfulApi_With_AspNetCore3\\Building_Your_First_Api\\CompanyEmployees\\Contracts\\Contracts.csproj"
             }
           }
         }

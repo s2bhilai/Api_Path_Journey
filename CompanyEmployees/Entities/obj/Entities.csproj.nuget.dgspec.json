@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tech\\CodeMaze\\CompanyEmployees\\Entities\\Entities.csproj": {}
+    "D:\\Tech\\RestfulApi_With_AspNetCore3\\Building_Your_First_Api\\CompanyEmployees\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "D:\\Tech\\CodeMaze\\CompanyEmployees\\Entities\\Entities.csproj": {
+    "D:\\Tech\\RestfulApi_With_AspNetCore3\\Building_Your_First_Api\\CompanyEmployees\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tech\\CodeMaze\\CompanyEmployees\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Tech\\RestfulApi_With_AspNetCore3\\Building_Your_First_Api\\CompanyEmployees\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Tech\\CodeMaze\\CompanyEmployees\\Entities\\Entities.csproj",
+        "projectPath": "D:\\Tech\\RestfulApi_With_AspNetCore3\\Building_Your_First_Api\\CompanyEmployees\\Entities\\Entities.csproj",
         "packagesPath": "D:\\Users\\subs\\.nuget\\packages\\",
-        "outputPath": "D:\\Tech\\CodeMaze\\CompanyEmployees\\Entities\\obj\\",
+        "outputPath": "D:\\Tech\\RestfulApi_With_AspNetCore3\\Building_Your_First_Api\\CompanyEmployees\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\subs\\AppData\\Roaming\\NuGet\\NuGet.Config",

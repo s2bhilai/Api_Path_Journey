@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FggBWQqwLqksna3W+xAjxTFNop8Av8dKiX5iVgLutYRmDxoW+cP1hvz551NtbEVwCbraLSulJC93Nrws6UC9xA==",
+  "dgSpecHash": "r2Cppug6Uf+kmoNtFn4AxMDXYvfUIt8NLcrz9buBBoeBhdJRjKrG8p0DHviCVterDXqqv4sTFhdmlHtOtEXd6A==",
   "success": true,
-  "projectFilePath": "D:\\Tech\\RestfulApi_With_AspNetCore3\\Project\\CourseLibrary.API\\CourseLibrary.API\\CourseLibrary.API.csproj",
+  "projectFilePath": "D:\\Tech\\RestfulApi_With_AspNetCore3\\Building_Your_First_Api\\CourseLibrary.API\\CourseLibrary.API\\CourseLibrary.API.csproj",
   "expectedPackageFiles": [
     "D:\\Users\\subs\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "D:\\Users\\subs\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",
